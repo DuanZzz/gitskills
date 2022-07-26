@@ -1,2 +1,3 @@
 # gitskills
-this is main branch
+creating a new branch is quick and simple
+
